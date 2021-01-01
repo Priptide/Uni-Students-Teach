@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386817565008",
+    "firebase_url": "https://uni-students-teach.firebaseio.com",
+    "project_id": "uni-students-teach",
+    "storage_bucket": "uni-students-teach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386817565008:android:2e16964b9b204edaf48c55",
+        "android_client_info": {
+          "package_name": "com.UniStudentsTech.UST"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386817565008-73mgoine1s1ojt0toro1hfh45qt3u0bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7FRUjMZhFdZaSUkpkk_YUmvezqXfL7bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386817565008-73mgoine1s1ojt0toro1hfh45qt3u0bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
